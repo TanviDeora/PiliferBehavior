@@ -307,5 +307,5 @@ TSWLatexianTemp*
 #*Notes.bib
 
 # ignore the folder
-dataFolders/
+dataFolder/
 *.mp4
